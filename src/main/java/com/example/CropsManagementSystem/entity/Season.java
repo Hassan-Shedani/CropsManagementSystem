@@ -6,6 +6,7 @@ import jakarta.persistence.Id;
 
 @Entity
 public class Season {
+//    only for tests purpose
     @Id
     private String seasonId;
     @Column
